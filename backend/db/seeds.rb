@@ -18,12 +18,12 @@ Question.create(question: "What was the occupation of Rachel’s fiancé Barry F
 Question.create(question: "Who was the maid of honor at Monica’s wedding?", answer1: "", answer2: "Rachel.", answer3: "", answer4: "", correct_answer: "Rachel.")
 Question.create(question: "Phoebe’s scientist boyfriend David worked in what city?", answer1: "", answer2: "", answer3: "Minsk.", answer4: "", correct_answer: "Minsk.")
 Question.create(question: "Monica dated an ophthalmologist named?", answer1: "Richard.", answer2: "", answer3: "", answer4: "", correct_answer: "Richard.")
-Question.create(question: "Which Sprouse brother played Ross’ son Ben?", answer1: "", answer2: "", answer3: "Cole.", answer4: "", correct_answer: "Cole.")
+Question.create(question: "Which Sprouse brother played Ross’ son Ben?", answer1: "Dylan.", answer2: "Cole.", correct_answer: "Cole.")
 Question.create(question: "True or false, Rachel kissed all of her Friends (male and female) on the show?", answer1: "True.", answer2: "False.", correct_answer: "True.")
-Question.create(question: "What is Chandler Bing’s middle name?", answer1: "", answer2: "", answer3: "", answer4: "Muriel.", correct_answer: "Muriel.")
-Question.create(question: "Who pees on Monica after she is stung by a jellyfish?", answer1: "", answer2: "Chandler.", answer3: "", answer4: "", correct_answer: "Chandler.")
-Question.create(question: "What is the name of Phoebe’s twin sister?", answer1: "Ursula.", answer2: "", answer3: "", answer4: "", correct_answer: "Ursula.")
-Question.create(question: "Ross says whose name at the altar in London?", answer1: "", answer2: "Rachel.", answer3: "", answer4: "", correct_answer: "Rachel.")
+Question.create(question: "What is Chandler Bing’s middle name?", answer1: "Agnes.", answer2: "Edith.", answer3: "Elspeth.", answer4: "Muriel.", correct_answer: "Muriel.")
+Question.create(question: "Who pees on Monica after she is stung by a jellyfish?", answer1: "Joey.", answer2: "Chandler.", correct_answer: "Chandler.")
+Question.create(question: "What is the name of Phoebe’s twin sister?", answer1: "Ursula.", answer2: "Ariel.", answer3: "Flounder.", answer4: "Sebastien.", correct_answer: "Ursula.")
+Question.create(question: "Ross says whose name at the altar in London?", answer1: "Carol.", answer2: "Rachel.", answer3: "Emily.", answer4: "Susan.", correct_answer: "Rachel.")
 Question.create(question: "Which member of the British royal family appeared on Friends?", answer1: "", answer2: "", answer3: "Sarah Ferguson/Duchess of York.", answer4: "", correct_answer: "Sarah Ferguson/Duchess of York.")
 Question.create(question: "Brad Pitt and David Schwimmer’s characters cofounded what club in high school?", answer1: "The 'Rachel Green Sucks Club.'", answer2: "The 'I Hate Rachel Green Club.'", correct_answer: "The 'I Hate Rachel Green Club.'")
 Question.create(question: "Which of Joey’s sisters did Chandler fool around with?", answer1: "Mary Angela.", answer2: "", answer3: "", answer4: "", correct_answer: "Mary Angela.")
@@ -32,7 +32,7 @@ Question.create(question: "What was the profession of Joey’s imaginary friend?
 Question.create(question: "What was Monica’s nickname when she was a field hockey goalie?", answer1: "Rachel Green's fat friend.", answer2: "Big Fat Goalie.", answer3: "Mon.", answer4: "", correct_answer: "Big Fat Goalie.")
 Question.create(question: "What does Rachel guess Chandler’s job is?", answer1: "", answer2: "A transponster.", answer3: "", answer4: "", correct_answer: "A transponster.")
 Question.create(question: "What is Richard’s daughter’s name?", answer1: "Michelle.", answer2: "Sarah.", answer3: "Susan.", answer4: "", correct_answer: "Michelle.")
-Question.create(question: "Who is Joey’s agent?", answer1: "Agnis.", answer2: "Stella.", answer3: "Sharon.", answer4: "Estelle.", correct_answer: "Estelle.")
+Question.create(question: "Who is Joey’s agent?", answer1: "Agnes.", answer2: "Stella.", answer3: "Sharon.", answer4: "Estelle.", correct_answer: "Estelle.")
 
 =begin 
 26. Question: Who mistakingly threw a woman’s wooden leg into a fire?
