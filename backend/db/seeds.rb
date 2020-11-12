@@ -33,52 +33,26 @@ Question.create(question: "What was Monica’s nickname when she was a field hoc
 Question.create(question: "What does Rachel guess Chandler’s job is?", answer1: "A transporter.", answer2: "A transponster.", answer3: "A data analyst.", answer4: "A salesman.", correct_answer: "A transponster.")
 Question.create(question: "What is Richard’s daughter’s name?", answer1: "Michelle.", answer2: "Sarah.", answer3: "Susan.", answer4: "Carol", correct_answer: "Michelle.")
 Question.create(question: "Who is Joey’s agent?", answer1: "Agnes.", answer2: "Stella.", answer3: "Sharon.", answer4: "Estelle.", correct_answer: "Estelle.")
+Question.create(question: "Who mistakingly threw a woman’s wooden leg into a fire?", answer1: "Chandler.", answer2: "Ross.", answer3: "Pheobe.", answer4: "Joey.", correct_answer: "Joey.")
+Question.create(question: "What was the name of Chandler and Ross’ college band?", answer1: "No Way Dudes.", answer2: "Way, No Way.", answer3: "Far out.", answer4: "The Flock.", correct_answer: "Way, No Way.")
+Question.create(question: "Monica categorizes her towels into how many categories?", answer1: "11.", answer2: "8.", answer3: "14.", answer4: "7", correct_answer: "11.")
 
-=begin 
-26. Question: Who mistakingly threw a woman’s wooden leg into a fire?
-Answer: Joey.
+Question.create(question: "Ross and Rachel’s wedding dinner was held where in Vegas?", answer1: "A Denny's.", answer2: "A Pizza Hut.", answer3: "", answer4: "", correct_answer: "A Pizza Hut.")
+Question.create(question: "Joey and Chandler’s TV guide is addressed to who?", answer1: "Mr. Chandler Bong.", answer2: "Sir. Chanandler Bong.", answer3: "Miss Chanandler Bong.", answer4: "Chandler Bong.", correct_answer: "Miss Chanandler Bong.")
+Question.create(question: "What was the name of Ross’ pet monkey?", answer1: "Marvin.", answer2: "Marley.", answer3: "Marcel.", answer4: "Marso.", correct_answer: "Marcel.")
+Question.create(question: "According to Monica, a woman has how many erogenous zones?", answer1: "Five.", answer2: "Six.", answer3: "Seven.", answer4: "Eight.", correct_answer: "Seven.")
+Question.create(question: "What does Phoebe legally change her name to after her wedding?", answer1: "Princess Consulea Banana Hammock.", answer2: "", answer3: "", answer4: "", correct_answer: "Princess Consulea Banana Hammock.")
+Question.Create(question: "What does Mike change his name to in response to Phoebe's name change?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Crap Bag.")
+Question.create(question: "What form of self-defense does Ross try to teach Rachel and Phoebe?", answer1: "", answer2: "Unagi.", answer3: "", answer4: "", correct_answer: "Unagi.")
+Question.create(question: "What song makes Ross and Rachel’s daughter Emma laugh for the first time?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Sir Mix-a-Lot’s “Baby Got Back.”")
+Question.create(question: "What is the name of Joey’s stuffed penguin?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Hugsy.")
+Question.create(question: "What caused the fire at Rachel and Phoebe’s apartment?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Rachel’s hair straightener.")
+Question.create(question: "Phoebe is a surrogate for who?", answer1: "Chandler and Monica.", answer2: "Frank Jr. and his wife Alice.", answer3: "Ursula and her husband Jason.", answer4: "Her homeless friends Don and Christy.", correct_answer: "Frank Jr. and his wife Alice.")
+Question.create(question: "What color is Monica’s apartment?", answer1: "Pink.", answer2: "Beige.", answer3: "Grey.", answer4: "Purple.", correct_answer: "Purple.")
+Question.create(question: "How many sisters does Joey have?", answer1: "Six.", answer2: "Seven.", answer3: "Eight.", answer4: "Nine.", correct_answer: "Seven.")
+=begin
 
-27. Question: What was the name of Chandler and Ross’ college band?
-Answer: Way, No Way.
-
-28. Question: Monica categorizes her towels into how many categories?
-Answer: 11.
-
-29. Question: Ross and Rachel’s wedding dinner was held where in Vegas?
-Answer: A Pizza Hut.
-
-30. Question: Joey and Chandler’s TV guide is addressed to who?
-Answer: Miss Chanandler Bong.
-
-31. Question: What was the name of Ross’ pet monkey?
-Answer: Marcel.
-
-32. Question: According to Monica, a woman has how many erogenous zones?
-Answer: Seven.
-
-33. Question: What does Phoebe legally change her name to after her wedding?
-Answer: Princess Consulea Banana Hammock.
-
-34 Question: What form of self-defense does Ross try to teach Rachel and Phoebe?
-Answer: Unagi.
-
-35. Question: What song makes Ross and Rachel’s daughter Emma laugh for the first time?
-Answer: Sir Mix-a-Lot’s “Baby Got Back.”
-
-36. Question: What is the name of Joey’s stuffed penguin?
-Answer: Hugsy.
-
-37. Question: What caused the fire at Rachel and Phoebe’s apartment?
-Answer: Rachel’s hair straightener.
-
-38. Question: Phoebe is a surrogate for who?
-Answer: Her half-brother Frank Jr. and his wife Alice.
-
-39. Question: What color is Monica’s apartment?
-Answer: Purple.
-
-40. Question: How many sisters does Joey have?
-Answer: Seven.
+Question.Create(question: "", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "")
 
 41. Question: Joey doesn’t share what?
 Answer: Food.
