@@ -36,13 +36,12 @@ Question.create(question: "Who is Joey’s agent?", answer1: "Agnes.", answer2: 
 Question.create(question: "Who mistakingly threw a woman’s wooden leg into a fire?", answer1: "Chandler.", answer2: "Ross.", answer3: "Pheobe.", answer4: "Joey.", correct_answer: "Joey.")
 Question.create(question: "What was the name of Chandler and Ross’ college band?", answer1: "No Way Dudes.", answer2: "Way, No Way.", answer3: "Far out.", answer4: "The Flock.", correct_answer: "Way, No Way.")
 Question.create(question: "Monica categorizes her towels into how many categories?", answer1: "11.", answer2: "8.", answer3: "14.", answer4: "7", correct_answer: "11.")
-
 Question.create(question: "Ross and Rachel’s wedding dinner was held where in Vegas?", answer1: "A Denny's.", answer2: "A Pizza Hut.", answer3: "", answer4: "", correct_answer: "A Pizza Hut.")
 Question.create(question: "Joey and Chandler’s TV guide is addressed to who?", answer1: "Mr. Chandler Bong.", answer2: "Sir. Chanandler Bong.", answer3: "Miss Chanandler Bong.", answer4: "Chandler Bong.", correct_answer: "Miss Chanandler Bong.")
 Question.create(question: "What was the name of Ross’ pet monkey?", answer1: "Marvin.", answer2: "Marley.", answer3: "Marcel.", answer4: "Marso.", correct_answer: "Marcel.")
 Question.create(question: "According to Monica, a woman has how many erogenous zones?", answer1: "Five.", answer2: "Six.", answer3: "Seven.", answer4: "Eight.", correct_answer: "Seven.")
 Question.create(question: "What does Phoebe legally change her name to after her wedding?", answer1: "Princess Consulea Banana Hammock.", answer2: "", answer3: "", answer4: "", correct_answer: "Princess Consulea Banana Hammock.")
-Question.Create(question: "What does Mike change his name to in response to Phoebe's name change?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Crap Bag.")
+Question.create(question: "What does Mike change his name to in response to Phoebe's name change?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Crap Bag.")
 Question.create(question: "What form of self-defense does Ross try to teach Rachel and Phoebe?", answer1: "", answer2: "Unagi.", answer3: "", answer4: "", correct_answer: "Unagi.")
 Question.create(question: "What song makes Ross and Rachel’s daughter Emma laugh for the first time?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Sir Mix-a-Lot’s “Baby Got Back.”")
 Question.create(question: "What is the name of Joey’s stuffed penguin?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Hugsy.")
@@ -50,39 +49,20 @@ Question.create(question: "What caused the fire at Rachel and Phoebe’s apartme
 Question.create(question: "Phoebe is a surrogate for who?", answer1: "Chandler and Monica.", answer2: "Frank Jr. and his wife Alice.", answer3: "Ursula and her husband Jason.", answer4: "Her homeless friends Don and Christy.", correct_answer: "Frank Jr. and his wife Alice.")
 Question.create(question: "What color is Monica’s apartment?", answer1: "Pink.", answer2: "Beige.", answer3: "Grey.", answer4: "Purple.", correct_answer: "Purple.")
 Question.create(question: "How many sisters does Joey have?", answer1: "Six.", answer2: "Seven.", answer3: "Eight.", answer4: "Nine.", correct_answer: "Seven.")
+Question.create(question: "Joey doesn’t share what?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Food.")
+Question.create(question: "What do Monica and Chandler name their twins?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Erica and Jack.")
+Question.create(question: "Ross’ first wife Carol leaves him for who?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Susan Bunch.")
+Question.create(question: "What is the name of Chandler’s father’s Las Vegas all-male burlesque?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Viva Las Gaygas.")
+Question.create(question: "Phoebe attempts to teach Joey what language?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "French.")
+Question.create(question: "Chick Jr. and Duck Jr. got stuck in what?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "A foosball table.")
+Question.create(question: "Who was married to a supposedly gay Canadian ice dancer named Duncan?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Phoebe.")
+Question.create(question: "Rachel was in which sorority?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Kappa Kappa Delta.")
+Question.create(question: "What are the names of Rachel’s sisters?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Jill and Amy Greene.")
+Question.create(question: "Which character famously said, 'PIVOT?'", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Ross.")
+
 =begin
 
-Question.Create(question: "", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "")
-
-41. Question: Joey doesn’t share what?
-Answer: Food.
-
-42. Question: What do Monica and Chandler name their twins?
-Answer: Erica and Jack.
-
-43. Question: Ross’ first wife Carol leaves him for who?
-Answer: Susan Bunch.
-
-44. Question: What is the name of Chandler’s father’s Las Vegas all-male burlesque?
-Answer: Viva Las Gaygas.
-
-45. Question: Phoebe attempts to teach Joey what language?
-Answer: French.
-
-46. Question: Chick Jr. and Duck Jr. got stuck in what?
-Answer: A foosball table.
-
-47. Question: Who was married to a supposedly gay Canadian ice dancer named Duncan?
-Answer: Phoebe.
-
-48. Question: Rachel was in which sorority?
-Answer: Kappa Kappa Delta.
-
-49. Question: What are the names of Rachel’s sisters?
-Answer: Jill and Amy Greene.
-
-50: Question: Which character famously said, “PIVOT?”
-Answer: Ross.
+Question.create(question: "", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "")
 
 51. Question: Phoebe finds what in her soda can?
 Answer: A human thumb.
