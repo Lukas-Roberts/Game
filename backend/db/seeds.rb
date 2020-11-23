@@ -40,9 +40,10 @@ Question.create(question: "Ross and Rachel’s wedding dinner was held where in 
 Question.create(question: "Joey and Chandler’s TV guide is addressed to who?", answer1: "Mr. Chandler Bong.", answer2: "Sir. Chanandler Bong.", answer3: "Miss Chanandler Bong.", answer4: "Chandler Bong.", correct_answer: "Miss Chanandler Bong.")
 Question.create(question: "What was the name of Ross’ pet monkey?", answer1: "Marvin.", answer2: "Marley.", answer3: "Marcel.", answer4: "Marso.", correct_answer: "Marcel.")
 Question.create(question: "According to Monica, a woman has how many erogenous zones?", answer1: "Five.", answer2: "Six.", answer3: "Seven.", answer4: "Eight.", correct_answer: "Seven.")
+
 Question.create(question: "What does Phoebe legally change her name to after her wedding?", answer1: "Princess Consulea Banana Hammock.", answer2: "", answer3: "", answer4: "", correct_answer: "Princess Consulea Banana Hammock.")
 Question.create(question: "What does Mike change his name to in response to Phoebe's name change?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Crap Bag.")
-Question.create(question: "What form of self-defense does Ross try to teach Rachel and Phoebe?", answer1: "", answer2: "Unagi.", answer3: "", answer4: "", correct_answer: "Unagi.")
+Question.create(question: "What form of self-defense does Ross try to teach Rachel and Phoebe?", answer1: "Sashimi.", answer2: "Unagi.", answer3: "Negiri.", answer4: "Umami.", correct_answer: "Unagi.")
 Question.create(question: "What song makes Ross and Rachel’s daughter Emma laugh for the first time?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Sir Mix-a-Lot’s “Baby Got Back.”")
 Question.create(question: "What is the name of Joey’s stuffed penguin?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Hugsy.")
 Question.create(question: "What caused the fire at Rachel and Phoebe’s apartment?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Rachel’s hair straightener.")
@@ -59,41 +60,24 @@ Question.create(question: "Who was married to a supposedly gay Canadian ice danc
 Question.create(question: "Rachel was in which sorority?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Kappa Kappa Delta.")
 Question.create(question: "What are the names of Rachel’s sisters?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Jill and Amy Greene.")
 Question.create(question: "Which character famously said, 'PIVOT?'", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Ross.")
+Question.create(question: "Phoebe finds what in her soda can?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "A human thumb.")
+Question.create(question: "Who was (accidentally) Monica’s first kiss?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Her brother, Ross.")
+Question.create(question: "Rachel goes on Ross’ honeymoon by herself where?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Athens, Greece.")
+Question.create(question: "What holiday does Chandler hate?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Thanksgiving.")
+Question.create(question: "Who was Rachel’s prom date?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Chip Matthews.")
+Question.create(question: "What was the name of Ross and Monica’s dog when they were kids?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Chi-Chi.")
+Question.create(question: "What actor played Phoebe’s husband Mike Hannigan?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Paul Rudd.")
+Question.create(question: "Where did Ross and Rachel have their first date?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "The planetarium.")
+Question.create(question: "How many roses did Ross send Emily?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "72.")
+Question.create(question: "How many pages was Rachel’s letter to Ross?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Eighteen pages (front and back).")
+
+
+
 
 =begin
 
 Question.create(question: "", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "")
 
-51. Question: Phoebe finds what in her soda can?
-Answer: A human thumb.
-
-52. Question: Who was (accidentally) Monica’s first kiss?
-Answer: Her brother Ross.
-
-53. Question: Rachel goes on Ross’ honeymoon by herself where?
-Answer: Athens, Greece.
-
-
-54. Question: What holiday does Chandler hate?
-Answer: Thanksgiving.
-
-55. Question: Who was Rachel’s prom date?
-Answer: Chip Matthews.
-
-56. Question: What was the name of Ross and Monica’s dog when they were kids?
-Answer: Chi-Chi.
-
-57. Question: What actor played Phoebe’s husband Mike Hannigan?
-Answer: Paul Rudd.
-
-58. Question: Where did Ross and Rachel have their first date?
-Answer: The planetarium.
-
-59. Question: How many roses did Ross send Emily?
-Answer: 72.
-
-60. Question: How many pages was Rachel’s letter to Ross?
-Answer: Eighteen pages (front and back).
 
 61. Question: What year did Friends first premiere?
 Answer: 1994.
