@@ -58,9 +58,9 @@ Question.create(question: "Phoebe attempts to teach Joey what language?", answer
 Question.create(question: "Chick Jr. and Duck Jr. got stuck in what?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "A foosball table.")
 Question.create(question: "Who was married to a supposedly gay Canadian ice dancer named Duncan?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Phoebe.")
 Question.create(question: "Rachel was in which sorority?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Kappa Kappa Delta.")
-Question.create(question: "What are the names of Rachel’s sisters?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Jill and Amy Greene.")
-Question.create(question: "Which character famously said, 'PIVOT?'", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Ross.")
-Question.create(question: "Phoebe finds what in her soda can?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "A thumb.")
+Question.create(question: "What are the names of Rachel’s sisters?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Jill and Amy.")
+Question.create(question: "Which character famously said, 'PIVOT?'", answer1: "Ross.", answer2: "Chandler.", answer3: "Rachel.", answer4: "Joey.", correct_answer: "Ross.")
+Question.create(question: "Phoebe finds what in her soda can?", answer1: "An ear.", answer2: "A thumb.", answer3: "A nose.", answer4: "An eyebrow.", correct_answer: "A thumb.")
 
 Question.create(question: "Who was (accidentally) Monica’s first kiss?", answer1: "Carl.", answer2: "Jack.", answer3: "Chandler.", answer4: "Ross.", correct_answer: "Ross.")
 Question.create(question: "Rachel goes on Ross’ honeymoon by herself where?", answer1: "Athens, Greese.", answer2: "Rome, Italy.", answer3: "Paris, France.", answer4: "London, England.", correct_answer: "Athens, Greece.")
