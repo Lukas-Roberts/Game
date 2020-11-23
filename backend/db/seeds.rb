@@ -70,7 +70,17 @@ Question.create(question: "What actor played Phoebe’s husband Mike Hannigan?",
 Question.create(question: "Where did Ross and Rachel have their first date?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "The planetarium.")
 Question.create(question: "How many roses did Ross send Emily?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "72.")
 Question.create(question: "How many pages was Rachel’s letter to Ross?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Eighteen pages (front and back).")
-
+Question.create(question: "What year did Friends first premiere?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "1994.")
+Question.create(question: "Joey’s Cabbage Patch Kid is named what?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Alicia May Emory")
+Question.create(question: "What was the name of the game Chandler made up to give Joey money?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Cups.")
+Question.create(question: "In an effort to get over Richard, Monica started making what?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Jam.")
+Question.create(question: "What fruit is Ross allergic to?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Kiwi.")
+Question.create(question: "What is Rachel’s favorite flower?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Lillies.")
+Question.create(question: "What was the name of Ross and Rachel’s male nanny?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Sandy.")
+Question.create(question: "Who came on to who in The One With The Videotape?", answer1: "Rachel came on to Ross.", answer2: "Ross came on to Rachel.", correct_answer: "Rachel came on to Ross.")
+Question.create(question: "What was Joey’s nickname when he was working at Alessandro’s?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Dragon.")
+Question.create(question: "Monica worked as a waitress at what diner?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Moondance Diner.")
+Question.create(question: "What was Rachel’s bra size?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "32C.")
 
 
 
@@ -79,38 +89,8 @@ Question.create(question: "How many pages was Rachel’s letter to Ross?", answe
 Question.create(question: "", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "")
 
 
-61. Question: What year did Friends first premiere?
-Answer: 1994.
 
-61. Question: Joey’s Cabbage Patch Kid is named what?
-Answer: Alicia May Emory
 
-62. Question: What was the name of the game Chandler made up to give Joey money?
-Answer: Cups.
-
-63. Question: In an effort to get over Richard, Monica started making what?
-Answer: Jam.
-
-64. Question: What fruit is Ross allergic to?
-Answer: Kiwi.
-
-65. Question: What is Rachel’s favorite flower?
-Answer: Lillies.
-
-66. Question: What was the name of Ross and Rachel’s male nanny?
-Answer: Sandy.
-
-67. Question: Who came on to who in The One With The Videotape?
-Answer: Rachel came on to Ross.
-
-68. Question: What was Joey’s nickname when he was working at Alessandro’s?
-Answer: Dragon.
-
-69. Question: Monica worked as a waitress at what diner?
-Answer: Moondance Diner.
-
-70. Question: What was Rachel’s bra size?
-Answer: 32C.
 
 71. Question: Ross worked as a professor at what school?
 Answer: New York University.
