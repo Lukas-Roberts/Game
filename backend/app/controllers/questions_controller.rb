@@ -1,11 +1,11 @@
 class QuestionsController < ApplicationController
 
     def new
-        @user = Question.new
+        @question = Question.new
     end
 
     def create
-        @user = Question.new(question_params)
+        @question = Question.new(question_params)
     end
 
     private
