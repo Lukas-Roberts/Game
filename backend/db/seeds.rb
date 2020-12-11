@@ -8,7 +8,7 @@
 
 
 
-Question.create(question: "How many seasons of Friends are there?", answer1: "Ten Seasons", answer2: "Eight Seasons.", answer3: "Nine Seasons.", answer4: "Eleven Seasons.", correct_answer: "Ten seasons.")
+Question.create(question: "How many seasons of Friends are there?", game_id: 1, answer1: "Ten Seasons", answer2: "Eight Seasons.", answer3: "Nine Seasons.", answer4: "Eleven Seasons.", correct_answer: "Ten seasons.")
 Question.create(question: "Joey played Dr. Drake Ramoray on which soap opera show?", answer1: "E.R.", answer2: "Baywatch.", answer3: "Days of Our Lives.", answer4: "The Golden Girls", correct_answer: "Days of Our Lives.")
 Question.create(question: "How many times did Ross get divorced?", answer1: "Two.", answer2: "Three.", answer3: "Four.", answer4: "Five.", correct_answer: "Three.")
 Question.create(question: "What store does Phoebe hate?", answer1: "Hobby Lobby.", answer2: "Bed, Bath and Beyond.", answer3: "Pottery Barn.", answer4: "", correct_answer: "Pottery Barn.")

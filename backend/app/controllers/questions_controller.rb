@@ -12,6 +12,10 @@ class QuestionsController < ApplicationController
         @question = Question.new(question_params)
     end
 
+    def show
+        @question = Question.find(id: params[:id])
+    end
+
     private
 
     def question_params
