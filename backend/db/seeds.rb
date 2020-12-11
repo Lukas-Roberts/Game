@@ -41,7 +41,7 @@ Question.create(question: "Joey and Chandler’s TV guide is addressed to who?",
 Question.create(question: "What was the name of Ross’ pet monkey?", answer1: "Marvin.", answer2: "Marley.", answer3: "Marcel.", answer4: "Marso.", correct_answer: "Marcel.")
 Question.create(question: "According to Monica, a woman has how many erogenous zones?", answer1: "Five.", answer2: "Six.", answer3: "Seven.", answer4: "Eight.", correct_answer: "Seven.")
 
-Question.create(question: "What does Phoebe legally change her name to after her wedding?", answer1: "Princess Consulea Banana Hammock.", answer2: "", answer3: "", answer4: "", correct_answer: "Princess Consulea Banana Hammock.")
+=begin Question.create(question: "What does Phoebe legally change her name to after her wedding?", answer1: "Princess Consulea Banana Hammock.", answer2: "", answer3: "", answer4: "", correct_answer: "Princess Consulea Banana Hammock.")
 Question.create(question: "What does Mike change his name to in response to Phoebe's name change?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Crap Bag.")
 Question.create(question: "What form of self-defense does Ross try to teach Rachel and Phoebe?", answer1: "Sashimi.", answer2: "Unagi.", answer3: "Negiri.", answer4: "Umami.", correct_answer: "Unagi.")
 Question.create(question: "What song makes Ross and Rachel’s daughter Emma laugh for the first time?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Sir Mix-a-Lot’s “Baby Got Back.”")
@@ -61,6 +61,7 @@ Question.create(question: "Rachel was in which sorority?", answer1: "", answer2:
 Question.create(question: "What are the names of Rachel’s sisters?", answer1: "", answer2: "", answer3: "", answer4: "", correct_answer: "Jill and Amy.")
 Question.create(question: "Which character famously said, 'PIVOT?'", answer1: "Ross.", answer2: "Chandler.", answer3: "Rachel.", answer4: "Joey.", correct_answer: "Ross.")
 Question.create(question: "Phoebe finds what in her soda can?", answer1: "An ear.", answer2: "A thumb.", answer3: "A nose.", answer4: "An eyebrow.", correct_answer: "A thumb.")
+=end
 
 Question.create(question: "Who was (accidentally) Monica’s first kiss?", answer1: "Carl.", answer2: "Jack.", answer3: "Chandler.", answer4: "Ross.", correct_answer: "Ross.")
 Question.create(question: "Rachel goes on Ross’ honeymoon by herself where?", answer1: "Athens, Greese.", answer2: "Rome, Italy.", answer3: "Paris, France.", answer4: "London, England.", correct_answer: "Athens, Greece.")
